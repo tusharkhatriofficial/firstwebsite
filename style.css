@@ -1,18 +1,38 @@
 body{
-     		background-color: #fefea4;
-     	}
-     	hr{
-     		border-style: none;
-     		border-top-style: dotted;
-     		border-color: green;
-     		border-width: 5px;
-     		width: 5%;
-     	}
-
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
 
 h1{
-	color: #66BFBF;
+  font-size: 500%;
+  margin-top: 0;
+  font-family: 'Pacifico', cursive;
 }
-h3{
-	color: #66BFBF;
+
+
+
+.top-container{
+  background-color: #e3fdfd;
+  padding-top: 100px;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
 }
